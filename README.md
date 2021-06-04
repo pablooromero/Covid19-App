@@ -1,2 +1,2 @@
 # Covid19-App
-Aplicación que muestra estadísticas sobre el Covid-19
+Responsive Website que muestra estadísticas en vivo sobre el Covid-19
